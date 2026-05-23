@@ -4,8 +4,8 @@ summary: ドキュメント、チュートリアル、サンプルでWebSailingN
 ---
 ### ガイド記事の一覧
 
-="products/websailing/legacy/guide"=
+="archived/websailing-nx/guide"=
 
 ### 開発者向け情報
 
-="products/websailing/legacy/developer"=
+="archived/websailing-nx/developer"=

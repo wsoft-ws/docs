@@ -4,4 +4,4 @@ summary: WSNET（統合WSOFTネットワーク）は、WSOFTのメンバーが�
 ---
 ### チュートリアル
 
-="products/wsnet/tutorial"=
+="archived/wsnet/tutorial"=

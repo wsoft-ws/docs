@@ -12,8 +12,8 @@ WSWANは現在、公開テストを行っていません。WSNETとWSWANにつ�
 
 ### ニュース
 
-="products/wsnet/news"=
+="archived/wsnet/news"=
 
 ### チュートリアル
 
-="products/wsnet/tutorial"=
+="archived/wsnet/tutorial"=

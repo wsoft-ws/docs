@@ -4,4 +4,4 @@ summary: WSNET（統合WSOFTネットワーク）は、WSOFTのメンバーが�
 ---
 ### ニュース
 
-="products/wsnet/news"=
+="archived/wsnet/news"=
