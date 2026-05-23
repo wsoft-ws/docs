@@ -6,4 +6,4 @@ disable_tol: true
 disable_tools : true
 ---
 
-="products/script/changelog"=
+="archived/script/changelog"=

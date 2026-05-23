@@ -12,8 +12,15 @@
 /housou https://housou.pages.dev/ 301
 
 /websailing/* /products/websailing/:splat
+/products/gl/* /archived/websailing-gl/:splat
+/products/legacy/* /archived/websailing-nx/:splat
+/products/script/* /archived/script/:splat
+/products/unidet/* /archived/unidet/:splat
+/products/wstube/* /archived/wstube/:splat
+/products/wsnet/* /archived/wsnet/:splat
+/products/PCMX/* /archived/PCMX/:splat
 /alice/* /products/alice/:splat
-/script/* /products/script/:splat
+/script/* /archived/script/:splat
 /download/* /products/download/:splat
 /blog/* https://blog.wsoft.ws/wsoft/:splat
 /housou/* https://housou.pages.dev/:splat

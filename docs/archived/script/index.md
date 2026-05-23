@@ -23,4 +23,4 @@ disable_tools : true
     * [AliceScriptへの移行](../alice/tutorial/migration-from-wsoftscript.md)
     * [Losettaのバージョンの識別](./losetta-version-determine.md)
 
-="products/script"=
+="archived/script"=

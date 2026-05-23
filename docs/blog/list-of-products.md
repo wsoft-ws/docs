@@ -76,7 +76,7 @@ order : 11
 |[WSOFTDownloadCenter.API](../products/download/api.md)|ちはや|chihaya||
 |[WSOFTDownloadCenter 管理端末](../products/download/manager/index.md)|ゆうき|yuuki||
 |WSOFT RapidLoad|迅速読込展開|SlideMovieMaker|
-|[WSOFTScript](../products/script/index.md)|Losetta|wscript||
+|[WSOFTScript](../archived/script/index.md)|Losetta|wscript||
 |WSOFTScript.X|Losetta.X|wscriptX|WSOFTScript|
 |WSOFTScript Mobile|Losetta.Xamarin|wscriptX|WSOFTScript|
 |WSOFTアカウント|AL|wsid||
